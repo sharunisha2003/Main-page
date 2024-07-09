@@ -1,0 +1,13 @@
+.container{
+    background-color: rgb(167, 160, 160);
+    text-align: center;
+    justify-content: center;
+    padding:50px;
+    margin-left:30%;
+    height:300px;
+    width: 500px;
+    font-size: large;
+}
+img{
+    border-radius:100%
+}
